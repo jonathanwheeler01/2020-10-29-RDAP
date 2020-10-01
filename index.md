@@ -19,4 +19,4 @@ For the event, we will refer to the following references and resources:
 * [Linda S. Cordell Papers (MSS 1058), Center for Southwest Research and Special Collections, University of New Mexico Libraries](https://rmoa.unm.edu/docviewer.php?docId=nmumss1058bc.xml) finding aid
 * [Data Curation Network Primers](https://datacurationnetwork.org/resources/data-curation-primers/)
 
-We will work in a shared Google drive. The Google Drive URL and Zoom link for the workshop will be shared with participants during the workshop.
+We will work in a shared Google drive. The Google Drive URL and Zoom link for the workshop will be shared with participants prior to the workshop.
