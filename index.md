@@ -1,3 +1,7 @@
+---
+title: "RDAP Workshop: Collaborative Curation of Open Educational Datasets"
+---
+
 ## Research Data Access & Preservation Workshop: Collaborative Curation of Open Educational Datasets
 
 The RDAP Education & Resources committee presents the second in a series of online, interactive workshops: Collaboratively Curating Open, Educational Datasets. Participants in this event will have an opportunity to gain hands-on experience with common data curation strategies and tools by curating a publicly available dataset to improve its FAIR-ness and educational fitness-for-purpose.
